@@ -1,6 +1,9 @@
 # Docker katas
 
-[![Open the exercises in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/praqma-training/docker-katas.git)
+[![Open the exercises in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/opeech/docker-katas.git&tutorial=resources/README.md)
+
+```<walkthrough-editor-spotlight spotlightId="navigator" filePath="hello.md" text="My file"></walkthrough-editor-spotlight>```
+
 
 This workshop will take you from "Hello Docker" to deploying a containerized web application to a server.
 
@@ -48,3 +51,6 @@ https://www.fromlatest.io/#/
 These exercises build upon and have been inspired by the following resources:
 * http://docker.atbaker.me/index.html
 * https://github.com/docker/labs/tree/master/beginner
+
+
+
