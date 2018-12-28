@@ -1,11 +1,11 @@
 # Docker katas
 
-[![Open the exercises in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/opeech/docker-katas.git&tutorial=resources/README.md)
+[![Open the exercises in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/opeech/docker-katas.git&tutorial=README.md)
 
-```<walkthrough-editor-spotlight spotlightId="navigator" filePath="hello.md" text="My file"></walkthrough-editor-spotlight>```
+To include a link to <walkthrough-editor-open-file filePath="docker-katas-2/1-hello-world.md">hello world</walkthrough-editor-open-file>, use:
 
 
-This workshop will take you from "Hello Docker" to deploying a containerized web application to a server.
+This workshop will take you from "deploying Docker" to deploying a containerized web application to a server.
 
 It's going to be a lot of fun!
 
@@ -20,13 +20,7 @@ You need to have access to a linux box. Either your laptop or a cloud server.
 There are a few things you should know about this tutorial before we begin.
 
 
-This tutorial is designed to be **self-paced** to make the most of your time.
 
-The exercises won't always tell you exactly what you need to do.
-
-Instead, it will point you to the right resources (like documentation and blog posts) to find the answer.
-
-I prefer this approach because it helps prepare you to find answers about Docker questions *after* the tutorial is over.
 
 ## Getting help
 
